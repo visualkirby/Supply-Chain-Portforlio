@@ -1,6 +1,18 @@
 MTC Medical Device Case Study – Addressing the 2.3% Medical Device Excise Tax
 
-https://youtu.be/8Xg6bOZwGO0?si=LX_rVSZSEMqfuaUO
+Case Study Background Information 
+
+
+Forecast Analysis
+(Excel Spreadsheet .pdf)
+
+
+PowerPoint Presentation 
+(.pdf format)
+
+
+Video Presentation 
+(YouTube link)
 
 In this presentation, we analyze the challenges and opportunities facing Medical Technologies Corporation (MTC), a leading medical device manufacturer, as it navigates the impact of the 2.3% medical device excise tax imposed by the Affordable Care Act (ACA). 
 
