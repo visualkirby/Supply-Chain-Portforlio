@@ -1,9 +1,10 @@
 SWOT Analysis 
 (Walmart Strength Weakness Opportunity Threat Analysis)
+https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20SWOT%20Analysis.pdf
 
 Lean Six Sigma
 (Walmart white-belt Lean Six Sigma Analysis)
-
+https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20Six%20Sigma%20DAMIC.PDF
 
 MTC Medical Device Case Study – Addressing the 2.3% Medical Device Excise Tax
 
