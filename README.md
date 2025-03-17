@@ -1,3 +1,10 @@
+SWOT Analysis 
+(Walmart Strength Weakness Opportunity Threat Analysis)
+
+Lean Six Sigma
+(Walmart white-belt Lean Six Sigma Analysis)
+
+
 MTC Medical Device Case Study – Addressing the 2.3% Medical Device Excise Tax
 
 Case Study Background Information 
