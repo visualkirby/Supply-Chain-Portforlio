@@ -38,7 +38,8 @@
 
 ---
 
-#Strategy **Applying what we've learned**
+# Strategy 
+**Applying what we've learned**
 
 ## 🔍 **Walmart Strategic Analyses**  
 *(Leveraging enterprise-scale retail insights)*  
