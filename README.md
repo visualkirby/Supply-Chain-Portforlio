@@ -1,6 +1,12 @@
 # Supply Chain Analysis Portfolio  
 **Data-Driven Problem Solving for Logistics & Operations**  
 
+<!-- ===================== -->
+<!--        PREVIEW        -->
+<!-- ===================== -->
+![Preview](./Supply-Chain-Portforlio.png)
+
+
 ## 🔍 **Walmart Strategic Analyses**  
 *(Leveraging enterprise-scale retail insights)*  
 
