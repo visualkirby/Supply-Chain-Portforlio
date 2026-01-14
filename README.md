@@ -7,28 +7,6 @@
 ![Preview](./Supply-Chain-Portforlio.png)
 
 
-## 🔍 **Walmart Strategic Analyses**  
-*(Leveraging enterprise-scale retail insights)*  
-
-### 1. **SWOT Analysis**  
-[![PDF](https://img.shields.io/badge/View-Full%20Analysis-blue)](https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20SWOT%20Analysis.pdf)  
-**Key Insights:**  
-- **Strength:** Unmatched distribution network (210 fulfillment centers)  
-- **Weakness:** High turnover in supply chain roles (Industry avg. +37%)  
-- **Opportunity:** Automation in DCs could save $1.2B/year  
-- **Threat:** Amazon’s last-mile dominance  
-
-**Skills Demonstrated:** Competitive benchmarking, strategic risk assessment  
-
----
-
-### 2. **Lean Six Sigma (White Belt)**  
-[![PDF](https://img.shields.io/badge/View-DMAIC%20Report-blue)](https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20Six%20Sigma%20DAMIC.PDF)  
-**Project Focus:** Reducing perishables waste in Midwest DCs  
-- **Result:** 18% waste reduction using 5S methodology  
-- **Tools Used:** Process mapping, Pareto analysis  
-
----
 
 ## 🏥 **Medical Device Case Study**  
 *(Navigating regulatory & financial challenges)*  
@@ -57,6 +35,31 @@
 ▶️ Stakeholder mapping (Hospitals, 3PLs, Surgeons)  
 ▶️ Cost-benefit analysis of sterilization options  
 ▶️ ROI timeline for kiosk implementation  
+
+---
+
+#Strategy **Applying what we've learned**
+
+## 🔍 **Walmart Strategic Analyses**  
+*(Leveraging enterprise-scale retail insights)*  
+
+### 1. **SWOT Analysis**  
+[![PDF](https://img.shields.io/badge/View-Full%20Analysis-blue)](https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20SWOT%20Analysis.pdf)  
+**Key Insights:**  
+- **Strength:** Unmatched distribution network (210 fulfillment centers)  
+- **Weakness:** High turnover in supply chain roles (Industry avg. +37%)  
+- **Opportunity:** Automation in DCs could save $1.2B/year  
+- **Threat:** Amazon’s last-mile dominance  
+
+**Skills Demonstrated:** Competitive benchmarking, strategic risk assessment  
+
+---
+
+### 2. **Lean Six Sigma (White Belt)**  
+[![PDF](https://img.shields.io/badge/View-DMAIC%20Report-blue)](https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/Walmart%20Six%20Sigma%20DAMIC.PDF)  
+**Project Focus:** Reducing perishables waste in Midwest DCs  
+- **Result:** 18% waste reduction using 5S methodology  
+- **Tools Used:** Process mapping, Pareto analysis  
 
 ---
 
