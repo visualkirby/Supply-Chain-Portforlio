@@ -1,0 +1,138 @@
+{
+  "project_id": "PROJ_SUPPLY_CHAIN_PORTFOLIO",
+  "group_id": "PROJECT_GROUP_SUPPLY_CHAIN",
+
+  "title": "Supply Chain Portfolio",
+  "short_summary": "Curated supply chain + logistics analytics portfolio with dashboards, case studies, and code",
+  "summary": "A curated portfolio of supply chain and logistics analytics work, combining dashboards, case studies, and reproducible code to analyze operational performance, cost drivers, service levels, and process improvement opportunities. Designed to showcase end-to-end analytics: data cleaning, KPI definitions, analysis, and stakeholder-ready deliverables.",
+
+  "role_scope": "base|operations|supply_chain",
+
+  "skills": [
+    "Supply Chain Analytics",
+    "Logistics Analytics",
+    "KPI Development",
+    "Data Cleaning",
+    "Dashboarding",
+    "Stakeholder Communication",
+    "Tableau",
+    "SQL",
+    "Python",
+    "R",
+    "Excel"
+  ],
+
+  "repo_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+
+  "domains": [
+    "supply_chain_analytics",
+    "logistics_operations",
+    "service_level_and_sla",
+    "cost_and_performance_tradeoffs",
+    "process_improvement"
+  ],
+
+  "tags": [
+    "portfolio",
+    "supply_chain",
+    "logistics",
+    "kpis",
+    "dashboards",
+    "case_studies",
+    "sql",
+    "python",
+    "r"
+  ],
+
+  "datasets": [
+    {
+      "dataset_key": "portfolio_sources",
+      "dataset_value": "Curated datasets referenced across portfolio projects (see repo folders/README for links)",
+      "dataset_link": "https://github.com/visualkirby/Supply-Chain-Portforlio"
+    }
+  ],
+
+  "components": [
+    {
+      "component_id": "COMP_SC_PORTFOLIO_OVERVIEW",
+      "name": "Portfolio Overview (README / Navigation)",
+      "component_type": "executive_communication",
+      "deliverable_type": "documentation",
+      "objective": "Provide a clear entry point and navigation across supply chain analytics artifacts",
+      "business_value": "Reduces time-to-understand for recruiters/clients; highlights scope and outcomes quickly",
+      "files": [
+        "README.md"
+      ],
+      "tools": [
+        { "tool_label": "GitHub", "tool_keyword": "github" },
+        { "tool_label": "Markdown", "tool_keyword": "markdown" }
+      ],
+      "skills": [
+        { "skill_keyword": "documentation", "weight": 0.6 },
+        { "skill_keyword": "stakeholder_communication", "weight": 0.4 }
+      ]
+    },
+
+    {
+      "component_id": "COMP_SC_PORTFOLIO_DASHBOARDS",
+      "name": "Dashboards & Visual Stories",
+      "component_type": "analytics_layer",
+      "deliverable_type": "dashboard",
+      "objective": "Present interactive and visual analysis of supply chain performance and cost drivers",
+      "business_value": "Enables fast exploration of KPIs and root-cause patterns for decision support",
+      "files": [
+        "Dashboard exports (PNG/PDF) and/or links referenced in README"
+      ],
+      "tools": [
+        { "tool_label": "Tableau", "tool_keyword": "tableau" },
+        { "tool_label": "Power BI", "tool_keyword": "power_bi" }
+      ],
+      "skills": [
+        { "skill_keyword": "data_visualization", "weight": 0.6 },
+        { "skill_keyword": "kpi_development", "weight": 0.4 }
+      ]
+    },
+
+    {
+      "component_id": "COMP_SC_PORTFOLIO_CASE_STUDIES",
+      "name": "Case Studies / Write-ups",
+      "component_type": "analytics_layer",
+      "deliverable_type": "report",
+      "objective": "Communicate findings, assumptions, and recommendations in a stakeholder-friendly format",
+      "business_value": "Turns analysis into decisions by documenting insights and actions",
+      "files": [
+        "Case study write-ups (MD/PDF) referenced in README"
+      ],
+      "tools": [
+        { "tool_label": "Markdown", "tool_keyword": "markdown" },
+        { "tool_label": "PDF", "tool_keyword": "pdf" }
+      ],
+      "skills": [
+        { "skill_keyword": "executive_communication", "weight": 0.6 },
+        { "skill_keyword": "analytical_storytelling", "weight": 0.4 }
+      ]
+    },
+
+    {
+      "component_id": "COMP_SC_PORTFOLIO_CODE_PIPELINES",
+      "name": "Data Pipelines & Analysis Code",
+      "component_type": "transform_layer",
+      "deliverable_type": "automation",
+      "objective": "Provide reproducible scripts for cleaning, transforming, and analyzing supply chain data",
+      "business_value": "Improves repeatability and auditability; enables quick iteration on KPI logic",
+      "files": [
+        "Scripts (Python/R/SQL) in repo folders"
+      ],
+      "tools": [
+        { "tool_label": "Python", "tool_keyword": "python" },
+        { "tool_label": "R", "tool_keyword": "r" },
+        { "tool_label": "SQL", "tool_keyword": "sql" }
+      ],
+      "skills": [
+        { "skill_keyword": "data_cleaning", "weight": 0.4 },
+        { "skill_keyword": "data_transformation", "weight": 0.4 },
+        { "skill_keyword": "automation", "weight": 0.2 }
+      ]
+    }
+  ]
+}
