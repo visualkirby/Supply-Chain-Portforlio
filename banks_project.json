@@ -8,6 +8,15 @@
 
   "role_scope": "base|operations|supply_chain",
 
+  "roles": [
+    "Supply Chain Analyst",
+    "Operations Analyst",
+    "Logistics Coordinator",
+    "Operations Coordinator",
+    "BI Engineer",
+    "Data Analyst"
+  ],
+
   "skills": [
     "Supply Chain Analytics",
     "Logistics Analytics",
@@ -58,18 +67,24 @@
       "name": "Portfolio Overview (README / Navigation)",
       "component_type": "executive_communication",
       "deliverable_type": "documentation",
-      "objective": "Provide a clear entry point and navigation across supply chain analytics artifacts",
-      "business_value": "Reduces time-to-understand for recruiters/clients; highlights scope and outcomes quickly",
+
+      "objective": "Provide a clear entry point and navigation across supply chain analytics artifacts.",
+      "business_value": "Reduces time-to-understand for recruiters/clients and makes the portfolio easy to scan, increasing the likelihood that key work is discovered quickly.",
+
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/README.md",
+
       "files": [
         "README.md"
       ],
+
       "tools": [
         { "tool_label": "GitHub", "tool_keyword": "github" },
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
+
       "skills": [
-        { "skill_keyword": "documentation", "weight": 0.6 },
-        { "skill_keyword": "stakeholder_communication", "weight": 0.4 }
+        { "skill_label": "Documentation", "skill_keyword": "documentation", "weight": 0.6 },
+        { "skill_label": "Stakeholder Communication", "skill_keyword": "stakeholder_communication", "weight": 0.4 }
       ]
     },
 
@@ -78,18 +93,24 @@
       "name": "Dashboards & Visual Stories",
       "component_type": "analytics_layer",
       "deliverable_type": "dashboard",
-      "objective": "Present interactive and visual analysis of supply chain performance and cost drivers",
-      "business_value": "Enables fast exploration of KPIs and root-cause patterns for decision support",
+
+      "objective": "Present interactive and visual analysis of supply chain performance and cost drivers through dashboards and guided views.",
+      "business_value": "Enables fast exploration of KPIs and root-cause patterns for decision support, reducing time to insight and improving stakeholder alignment.",
+
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+
       "files": [
         "Dashboard exports (PNG/PDF) and/or links referenced in README"
       ],
+
       "tools": [
         { "tool_label": "Tableau", "tool_keyword": "tableau" },
         { "tool_label": "Power BI", "tool_keyword": "power_bi" }
       ],
+
       "skills": [
-        { "skill_keyword": "data_visualization", "weight": 0.6 },
-        { "skill_keyword": "kpi_development", "weight": 0.4 }
+        { "skill_label": "Data Visualization", "skill_keyword": "data_visualization", "weight": 0.6 },
+        { "skill_label": "KPI Development", "skill_keyword": "kpi_development", "weight": 0.4 }
       ]
     },
 
@@ -98,18 +119,24 @@
       "name": "Case Studies / Write-ups",
       "component_type": "analytics_layer",
       "deliverable_type": "report",
-      "objective": "Communicate findings, assumptions, and recommendations in a stakeholder-friendly format",
-      "business_value": "Turns analysis into decisions by documenting insights and actions",
+
+      "objective": "Communicate findings, assumptions, and recommendations in a stakeholder-friendly format with clear reasoning and takeaways.",
+      "business_value": "Turns analysis into decisions by documenting insights and actions, making work reviewable, reusable, and easy to present in interviews or stakeholder readouts.",
+
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+
       "files": [
         "Case study write-ups (MD/PDF) referenced in README"
       ],
+
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" },
         { "tool_label": "PDF", "tool_keyword": "pdf" }
       ],
+
       "skills": [
-        { "skill_keyword": "executive_communication", "weight": 0.6 },
-        { "skill_keyword": "analytical_storytelling", "weight": 0.4 }
+        { "skill_label": "Executive Communication", "skill_keyword": "executive_communication", "weight": 0.6 },
+        { "skill_label": "Analytical Storytelling", "skill_keyword": "analytical_storytelling", "weight": 0.4 }
       ]
     },
 
@@ -118,20 +145,26 @@
       "name": "Data Pipelines & Analysis Code",
       "component_type": "transform_layer",
       "deliverable_type": "automation",
-      "objective": "Provide reproducible scripts for cleaning, transforming, and analyzing supply chain data",
-      "business_value": "Improves repeatability and auditability; enables quick iteration on KPI logic",
+
+      "objective": "Provide reproducible scripts for cleaning, transforming, and analyzing supply chain data, with reusable KPI logic and consistent data handling.",
+      "business_value": "Improves repeatability and auditability, reduces rework, and enables quick iteration on KPI definitions and analysis without rebuilding from scratch.",
+
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+
       "files": [
         "Scripts (Python/R/SQL) in repo folders"
       ],
+
       "tools": [
         { "tool_label": "Python", "tool_keyword": "python" },
         { "tool_label": "R", "tool_keyword": "r" },
         { "tool_label": "SQL", "tool_keyword": "sql" }
       ],
+
       "skills": [
-        { "skill_keyword": "data_cleaning", "weight": 0.4 },
-        { "skill_keyword": "data_transformation", "weight": 0.4 },
-        { "skill_keyword": "automation", "weight": 0.2 }
+        { "skill_label": "Data Cleaning", "skill_keyword": "data_cleaning", "weight": 0.4 },
+        { "skill_label": "Data Transformation", "skill_keyword": "data_transformation", "weight": 0.4 },
+        { "skill_label": "Automation", "skill_keyword": "automation", "weight": 0.2 }
       ]
     }
   ]
