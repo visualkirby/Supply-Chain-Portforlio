@@ -31,7 +31,7 @@
     "Excel"
   ],
 
-  "repo_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+  "repo_link": "https://github.com/visualkirby/Supply-Chain-Portfolio",
 
   "domains": [
     "supply_chain_analytics",
@@ -57,7 +57,7 @@
     {
       "dataset_key": "portfolio_sources",
       "dataset_value": "Curated datasets referenced across portfolio projects (see repo folders/README for links)",
-      "dataset_link": "https://github.com/visualkirby/Supply-Chain-Portforlio"
+      "dataset_link": "https://github.com/visualkirby/Supply-Chain-Portfolio"
     }
   ],
 
@@ -71,7 +71,7 @@
       "objective": "Provide a clear entry point and navigation across supply chain analytics artifacts.",
       "business_value": "Reduces time-to-understand for recruiters/clients and makes the portfolio easy to scan, increasing the likelihood that key work is discovered quickly.",
 
-      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio/blob/main/README.md",
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portfolio/blob/main/README.md",
 
       "files": [
         "README.md"
@@ -97,7 +97,7 @@
       "objective": "Present interactive and visual analysis of supply chain performance and cost drivers through dashboards and guided views.",
       "business_value": "Enables fast exploration of KPIs and root-cause patterns for decision support, reducing time to insight and improving stakeholder alignment.",
 
-      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portfolio",
 
       "files": [
         "Dashboard exports (PNG/PDF) and/or links referenced in README"
@@ -123,7 +123,7 @@
       "objective": "Communicate findings, assumptions, and recommendations in a stakeholder-friendly format with clear reasoning and takeaways.",
       "business_value": "Turns analysis into decisions by documenting insights and actions, making work reviewable, reusable, and easy to present in interviews or stakeholder readouts.",
 
-      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portfolio",
 
       "files": [
         "Case study write-ups (MD/PDF) referenced in README"
@@ -149,7 +149,7 @@
       "objective": "Provide reproducible scripts for cleaning, transforming, and analyzing supply chain data, with reusable KPI logic and consistent data handling.",
       "business_value": "Improves repeatability and auditability, reduces rework, and enables quick iteration on KPI definitions and analysis without rebuilding from scratch.",
 
-      "component_link": "https://github.com/visualkirby/Supply-Chain-Portforlio",
+      "component_link": "https://github.com/visualkirby/Supply-Chain-Portfolio",
 
       "files": [
         "Scripts (Python/R/SQL) in repo folders"
